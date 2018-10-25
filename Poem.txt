@@ -1,9 +1,1 @@
-Regnbuen
-
-Rød
-Oransje
-Gul
-Grønn
-Blå
-Indigo
-Fiolett
+branch 2.0
